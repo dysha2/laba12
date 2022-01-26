@@ -1,0 +1,15 @@
+C:\dysha\project\laba_12\miheev\bin\Debug\net6.0\miheev.exe
+C:\dysha\project\laba_12\miheev\bin\Debug\net6.0\miheev.deps.json
+C:\dysha\project\laba_12\miheev\bin\Debug\net6.0\miheev.runtimeconfig.json
+C:\dysha\project\laba_12\miheev\bin\Debug\net6.0\miheev.dll
+C:\dysha\project\laba_12\miheev\bin\Debug\net6.0\ref\miheev.dll
+C:\dysha\project\laba_12\miheev\bin\Debug\net6.0\miheev.pdb
+C:\dysha\project\laba_12\miheev\obj\Debug\net6.0\miheev.csproj.AssemblyReference.cache
+C:\dysha\project\laba_12\miheev\obj\Debug\net6.0\miheev.GeneratedMSBuildEditorConfig.editorconfig
+C:\dysha\project\laba_12\miheev\obj\Debug\net6.0\miheev.AssemblyInfoInputs.cache
+C:\dysha\project\laba_12\miheev\obj\Debug\net6.0\miheev.AssemblyInfo.cs
+C:\dysha\project\laba_12\miheev\obj\Debug\net6.0\miheev.csproj.CoreCompileInputs.cache
+C:\dysha\project\laba_12\miheev\obj\Debug\net6.0\miheev.dll
+C:\dysha\project\laba_12\miheev\obj\Debug\net6.0\ref\miheev.dll
+C:\dysha\project\laba_12\miheev\obj\Debug\net6.0\miheev.pdb
+C:\dysha\project\laba_12\miheev\obj\Debug\net6.0\miheev.genruntimeconfig.cache
