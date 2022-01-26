@@ -8,4 +8,5 @@ void PrintMenu()
         "5.Вычислить A*B\n" +
         "6.Вычислить A/B\n");
 }
+int Multiplication(int a, int b) => a * b;
 PrintMenu();
