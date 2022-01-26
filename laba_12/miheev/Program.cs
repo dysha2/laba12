@@ -8,6 +8,7 @@ void PrintMenu()
         "5.Вычислить A*B\n" +
         "6.Вычислить A/B\n");
 }
+<<<<<<< HEAD
 double Division(int a, int b) => (double)(a / b);
 int Addition(int a, int b)
 {
@@ -16,15 +17,27 @@ int Addition(int a, int b)
 int Subtraction(int x, int y) => x - y;
 int Multiplication(int a, int b) => a * b;
 int InputA()
+=======
+int InputB()
+>>>>>>> InputB
 {
     do
     {
         Console.WriteLine("Введите A");
+<<<<<<< HEAD
         if (int.TryParse(Console.ReadLine(), out int a))
         {
             return a;
         }
         Console.WriteLine("Введите целое число");
     }while (true);
+=======
+        if (int.TryParse(Console.ReadLine(), out int b))
+        {
+            return b;
+        }
+        Console.WriteLine("Введите целое число");
+    } while (true);
+>>>>>>> InputB
 }
 PrintMenu();
