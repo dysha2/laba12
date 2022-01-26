@@ -13,4 +13,5 @@ int Addition(int a, int b)
 {
     return a + b;
 }
+int Subtraction(int x, int y) => x - y;
 PrintMenu();
