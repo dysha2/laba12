@@ -8,4 +8,16 @@ void PrintMenu()
         "5.Вычислить A*B\n" +
         "6.Вычислить A/B\n");
 }
+int InputB()
+{
+    do
+    {
+        Console.WriteLine("Введите A");
+        if (int.TryParse(Console.ReadLine(), out int b))
+        {
+            return b;
+        }
+        Console.WriteLine("Введите целое число");
+    } while (true);
+}
 PrintMenu();
