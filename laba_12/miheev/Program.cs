@@ -8,4 +8,8 @@ void PrintMenu()
         "5.Вычислить A*B\n" +
         "6.Вычислить A/B\n");
 }
+int Addition(int a, int b)
+{
+    return a + b;
+}
 PrintMenu();
