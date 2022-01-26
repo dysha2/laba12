@@ -15,4 +15,16 @@ int Addition(int a, int b)
 }
 int Subtraction(int x, int y) => x - y;
 int Multiplication(int a, int b) => a * b;
+int InputA()
+{
+    do
+    {
+        Console.WriteLine("Введите A");
+        if (int.TryParse(Console.ReadLine(), out int a))
+        {
+            return a;
+        }
+        Console.WriteLine("Введите целое число");
+    }while (true);
+}
 PrintMenu();
