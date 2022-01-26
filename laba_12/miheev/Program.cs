@@ -14,4 +14,5 @@ int Addition(int a, int b)
     return a + b;
 }
 int Subtraction(int x, int y) => x - y;
+int Multiplication(int a, int b) => a * b;
 PrintMenu();
