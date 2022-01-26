@@ -8,4 +8,5 @@ void PrintMenu()
         "5.Вычислить A*B\n" +
         "6.Вычислить A/B\n");
 }
+double Division(int a, int b) => (double)(a / b);
 PrintMenu();
